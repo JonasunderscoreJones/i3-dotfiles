@@ -1,0 +1,70 @@
+{"level":40,"time":"2022-09-13T18:02:15.548Z","pid":22902,"hostname":"hp-g3-j","msg":"Problem loading messages for locale en-US"}
+{"level":40,"time":"2022-09-13T18:02:15.550Z","pid":22902,"hostname":"hp-g3-j","msg":"Falling back to parent language: 'en'"}
+{"level":30,"time":"2022-09-13T18:02:15.597Z","pid":22902,"hostname":"hp-g3-j","msg":"app ready"}
+{"level":30,"time":"2022-09-13T18:02:15.598Z","pid":22902,"hostname":"hp-g3-j","msg":"starting version 5.58.0"}
+{"level":30,"time":"2022-09-13T18:02:15.599Z","pid":22902,"hostname":"hp-g3-j","msg":"media access status [object Undefined] [object Undefined]"}
+{"level":30,"time":"2022-09-13T18:02:15.600Z","pid":22902,"hostname":"hp-g3-j","msg":"got fast theme-setting value system"}
+{"level":30,"time":"2022-09-13T18:02:15.607Z","pid":22902,"hostname":"hp-g3-j","msg":"got fast theme-setting value system"}
+{"level":30,"time":"2022-09-13T18:02:15.608Z","pid":22902,"hostname":"hp-g3-j","msg":"got fast spellcheck setting true"}
+{"level":30,"time":"2022-09-13T18:02:15.612Z","pid":22902,"hostname":"hp-g3-j","msg":"getSystemTraySetting had no flags and did no DB lookups. Returning DoNotUseSystemTray"}
+{"level":30,"time":"2022-09-13T18:02:15.616Z","pid":22902,"hostname":"hp-g3-j","msg":"Location reset needed"}
+{"level":30,"time":"2022-09-13T18:02:15.616Z","pid":22902,"hostname":"hp-g3-j","msg":"Initializing BrowserWindow config: {\"show\":false,\"width\":1900,\"height\":1035,\"minWidth\":712,\"minHeight\":550,\"autoHideMenuBar\":false,\"titleBarStyle\":\"default\",\"titleBarOverlay\":false,\"backgroundColor\":\"#121212\",\"webPreferences\":{\"devTools\":false,\"spellcheck\":true,\"nodeIntegration\":false,\"nodeIntegrationInWorker\":false,\"sandbox\":false,\"contextIsolation\":false,\"preload\":\"[REDACTED]/preload.bundle.js\",\"backgroundThrottling\":false,\"enablePreferredSizeMode\":true,\"disableBlinkFeatures\":\"Accelerated2dCanvas,AcceleratedSmallCanvases\"},\"icon\":\"[REDACTED]/images/signal-logo-desktop-linux.png\"}"}
+{"level":30,"time":"2022-09-13T18:02:15.837Z","pid":22902,"hostname":"hp-g3-j","msg":"spellcheck: user locale: en-US"}
+{"level":30,"time":"2022-09-13T18:02:15.837Z","pid":22902,"hostname":"hp-g3-j","msg":"spellcheck: available spellchecker languages:  [\"af\",\"bg\",\"ca\",\"cs\",\"cy\",\"da\",\"de\",\"de-DE\",\"el\",\"en\",\"en-AU\",\"en-CA\",\"en-GB\",\"en-GB-oxendict\",\"en-US\",\"es\",\"es-419\",\"es-AR\",\"es-ES\",\"es-MX\",\"es-US\",\"et\",\"fa\",\"fo\",\"fr\",\"fr-FR\",\"he\",\"hi\",\"hr\",\"hu\",\"hy\",\"id\",\"it\",\"it-IT\",\"ko\",\"lt\",\"lv\",\"nb\",\"nl\",\"pl\",\"pt\",\"pt-BR\",\"pt-PT\",\"ro\",\"ru\",\"sh\",\"sk\",\"sl\",\"sq\",\"sr\",\"sv\",\"ta\",\"tg\",\"tr\",\"uk\",\"vi\"]"}
+{"level":30,"time":"2022-09-13T18:02:15.838Z","pid":22902,"hostname":"hp-g3-j","msg":"spellcheck: setting languages to:  [\"en-US\"]"}
+{"level":30,"time":"2022-09-13T18:02:15.839Z","pid":22902,"hostname":"hp-g3-j","msg":"got fast theme-setting value system"}
+{"level":30,"time":"2022-09-13T18:02:15.867Z","pid":22902,"hostname":"hp-g3-j","msg":"MainSQL: updateSchema:\n  Current user_version: 66;\n  Most recent db schema: 66;\n  SQLite version: 3.37.2;\n  SQLCipher version: 4.5.1 community;\n  (deprecated) schema_version: 288;\n"}
+{"level":30,"time":"2022-09-13T18:02:15.868Z","pid":22902,"hostname":"hp-g3-j","msg":"got fast spellcheck setting true"}
+{"level":30,"time":"2022-09-13T18:02:15.923Z","pid":22902,"hostname":"hp-g3-j","msg":"System tray service: created"}
+{"level":30,"time":"2022-09-13T18:02:15.923Z","pid":22902,"hostname":"hp-g3-j","msg":"System tray service: updating main window. Previously, there was not a window, and now there is"}
+{"level":30,"time":"2022-09-13T18:02:15.924Z","pid":22902,"hostname":"hp-g3-j","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2022-09-13T18:02:15.924Z","pid":22902,"hostname":"hp-g3-j","msg":"Begin ensuring permissions"}
+{"level":30,"time":"2022-09-13T18:02:15.932Z","pid":22902,"hostname":"hp-g3-j","msg":"Ensuring file permissions for 4 files"}
+{"level":30,"time":"2022-09-13T18:02:15.934Z","pid":22902,"hostname":"hp-g3-j","msg":"Finish ensuring permissions in 10ms"}
+{"level":30,"time":"2022-09-13T18:02:18.339Z","pid":22902,"hostname":"hp-g3-j","msg":"main window is ready-to-show"}
+{"level":30,"time":"2022-09-13T18:02:18.339Z","pid":22902,"hostname":"hp-g3-j","msg":"showing main window"}
+{"level":30,"time":"2022-09-13T18:02:18.344Z","pid":22902,"hostname":"hp-g3-j","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2022-09-13T18:02:18.918Z","pid":22902,"hostname":"hp-g3-j","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":946,\"height\":1155,\"x\":2884,\"y\":35}"}
+{"level":30,"time":"2022-09-13T18:02:18.921Z","pid":22902,"hostname":"hp-g3-j","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2022-09-13T18:02:18.922Z","pid":22902,"hostname":"hp-g3-j","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2022-09-13T18:02:20.470Z","pid":22902,"hostname":"hp-g3-j","msg":"MainSQL: removeKnownAttachments: About to iterate through 0 messages"}
+{"level":30,"time":"2022-09-13T18:02:20.470Z","pid":22902,"hostname":"hp-g3-j","msg":"MainSQL: removeKnownAttachments: Done processing 0 messages"}
+{"level":30,"time":"2022-09-13T18:02:20.470Z","pid":22902,"hostname":"hp-g3-j","msg":"MainSQL: removeKnownAttachments: About to iterate through 24 conversations"}
+{"level":30,"time":"2022-09-13T18:02:20.477Z","pid":22902,"hostname":"hp-g3-j","msg":"MainSQL: removeKnownAttachments: Done processing 24 conversations"}
+{"level":30,"time":"2022-09-13T18:02:20.478Z","pid":22902,"hostname":"hp-g3-j","msg":"deleteAll: deleted 0 files"}
+{"level":30,"time":"2022-09-13T18:02:20.482Z","pid":22902,"hostname":"hp-g3-j","msg":"deleteAllBadges: deleted 0 files"}
+{"level":30,"time":"2022-09-13T18:02:20.518Z","pid":22902,"hostname":"hp-g3-j","msg":"MainSQL: removeKnownStickers: About to iterate through 219 stickers"}
+{"level":30,"time":"2022-09-13T18:02:20.519Z","pid":22902,"hostname":"hp-g3-j","msg":"MainSQL: removeKnownStickers: Done processing 219 stickers"}
+{"level":30,"time":"2022-09-13T18:02:20.520Z","pid":22902,"hostname":"hp-g3-j","msg":"deleteAllStickers: deleted 0 files"}
+{"level":30,"time":"2022-09-13T18:02:20.523Z","pid":22902,"hostname":"hp-g3-j","msg":"MainSQL: removeKnownDraftAttachments: About to iterate through 24 conversations"}
+{"level":30,"time":"2022-09-13T18:02:20.525Z","pid":22902,"hostname":"hp-g3-j","msg":"MainSQL: removeKnownDraftAttachments: Done processing 24 conversations"}
+{"level":30,"time":"2022-09-13T18:02:20.526Z","pid":22902,"hostname":"hp-g3-j","msg":"deleteAllDraftAttachments: deleted 0 files"}
+{"level":30,"time":"2022-09-13T18:02:20.529Z","pid":22902,"hostname":"hp-g3-j","msg":"Begin ensuring permissions"}
+{"level":30,"time":"2022-09-13T18:02:20.531Z","pid":22902,"hostname":"hp-g3-j","msg":"sending `database-ready`"}
+{"level":30,"time":"2022-09-13T18:02:20.598Z","pid":22902,"hostname":"hp-g3-j","msg":"Ensuring file permissions for 443 files"}
+{"level":50,"time":"2022-09-13T18:02:20.609Z","pid":22902,"hostname":"hp-g3-j","msg":"ensureFilePermissions: Error from chmod ENOENT: no such file or directory, chmod '[REDACTED]/SingletonCookie'"}
+{"level":50,"time":"2022-09-13T18:02:20.612Z","pid":22902,"hostname":"hp-g3-j","msg":"ensureFilePermissions: Error from chmod ENOENT: no such file or directory, chmod '[REDACTED]/SingletonLock'"}
+{"level":30,"time":"2022-09-13T18:02:20.720Z","pid":22902,"hostname":"hp-g3-j","msg":"Finish ensuring permissions in 191ms"}
+{"level":30,"time":"2022-09-13T18:02:20.926Z","pid":22902,"hostname":"hp-g3-j","msg":"Prevent display sleep service: allowing display sleep"}
+{"level":30,"time":"2022-09-13T18:02:22.312Z","pid":22902,"hostname":"hp-g3-j","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1900,\"height\":1155,\"x\":1930,\"y\":35}"}
+{"level":30,"time":"2022-09-13T18:02:22.315Z","pid":22902,"hostname":"hp-g3-j","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2022-09-13T18:02:22.318Z","pid":22902,"hostname":"hp-g3-j","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2022-09-13T18:02:23.413Z","pid":22902,"hostname":"hp-g3-j","msg":"updater/start: Updates disabled - not starting new version checks"}
+{"level":30,"time":"2022-09-13T18:02:23.421Z","pid":22902,"hostname":"hp-g3-j","msg":"System tray service: setting unread count to 1"}
+{"level":30,"time":"2022-09-13T18:02:23.423Z","pid":22902,"hostname":"hp-g3-j","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2022-09-13T18:02:23.514Z","pid":22902,"hostname":"hp-g3-j","msg":"App loaded - time: 7930"}
+{"level":30,"time":"2022-09-13T18:02:23.514Z","pid":22902,"hostname":"hp-g3-j","msg":"SQL init - time: 285"}
+{"level":30,"time":"2022-09-13T18:02:23.515Z","pid":22902,"hostname":"hp-g3-j","msg":"Preload - time: 1398"}
+{"level":30,"time":"2022-09-13T18:02:23.515Z","pid":22902,"hostname":"hp-g3-j","msg":"WebSocket connect - time: 3228"}
+{"level":30,"time":"2022-09-13T18:02:23.516Z","pid":22902,"hostname":"hp-g3-j","msg":"Processed count: 71"}
+{"level":30,"time":"2022-09-13T18:02:23.517Z","pid":22902,"hostname":"hp-g3-j","msg":"Messages per second: 21.48910411622276"}
+{"level":30,"time":"2022-09-13T18:40:18.100Z","pid":22902,"hostname":"hp-g3-j","msg":"before-quit event {\"readyForShutdown\":false,\"shouldQuit\":false}"}
+{"level":30,"time":"2022-09-13T18:40:18.101Z","pid":22902,"hostname":"hp-g3-j","msg":"System tray service: markShouldQuit"}
+{"level":30,"time":"2022-09-13T18:40:18.103Z","pid":22902,"hostname":"hp-g3-j","msg":"close event {\"readyForShutdown\":false,\"shouldQuit\":true}"}
+{"level":30,"time":"2022-09-13T18:40:18.104Z","pid":22902,"hostname":"hp-g3-j","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2022-09-13T18:40:18.106Z","pid":22902,"hostname":"hp-g3-j","msg":"requestShutdown: Requesting close of mainWindow..."}
+{"level":30,"time":"2022-09-13T18:40:18.194Z","pid":22902,"hostname":"hp-g3-j","msg":"requestShutdown: Response received"}
+{"level":30,"time":"2022-09-13T18:40:18.199Z","pid":22902,"hostname":"hp-g3-j","msg":"before-quit event {\"readyForShutdown\":true,\"shouldQuit\":true}"}
+{"level":30,"time":"2022-09-13T18:40:18.199Z","pid":22902,"hostname":"hp-g3-j","msg":"System tray service: markShouldQuit"}
+{"level":30,"time":"2022-09-13T18:40:18.199Z","pid":22902,"hostname":"hp-g3-j","msg":"close event {\"readyForShutdown\":true,\"shouldQuit\":true}"}
+{"level":30,"time":"2022-09-13T18:40:18.206Z","pid":22902,"hostname":"hp-g3-j","msg":"System tray service: updating main window. Previously, there was a window, and now there is not"}

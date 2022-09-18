@@ -1,0 +1,92 @@
+<application>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="2CRB036vbwW6ZN8MqSQ9nZOonie">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2CyvPkt7P30ulajeCV2m8GrL4Sn">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2EwYohdwXceIgC1c7wWgtWfl7HZ">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2EwfkpN57l0y6SdArSo4FSsvKNa">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2Ewg7X1xmqsJynKfQ4gukfDzkTc">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2Ewq9heqP20FYoR3b99ipWH7ufH">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="JdkInstallerHistory">
+    <option name="installedItems">
+      <installed-jdk>
+        <option name="fullText" value="Oracle OpenJDK 18.0.2.1" />
+        <option name="installDir" value="$USER_HOME$/.jdks/openjdk-18.0.2.1" />
+        <option name="javaHomeDir" value="$USER_HOME$/.jdks/openjdk-18.0.2.1" />
+        <option name="sha256" value="3bfdb59fc38884672677cebca9a216902d87fe867563182ae8bc3373a65a2ebd" />
+        <option name="url" value="https://download.java.net/java/GA/jdk18.0.2.1/db379da656dc47308e138f21b33976fa/1/GPL/openjdk-18.0.2.1_linux-x64_bin.tar.gz" />
+        <option name="versionText" value="18.0.2.1" />
+      </installed-jdk>
+    </option>
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "BuildView.Splitter.Proportion": "0.25085518",
+    "CWM_LOGGING_VERSION": "1",
+    "Markdown Split EditorLayout": "Editor and Preview",
+    "NonModalCommitCustomization.IsApplied": "true",
+    "RunOnceActivity.se.text.search": "true",
+    "appcds.runOnSecondStart": "IC-222.3739.54-5d9ddff1510ea38116bb92cc63858f867b3ef1236d99c4c2722252dd56dff4ba",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "bundled.plugins.list.saved.version": "IC-222.3739.54",
+    "defaultJdkConfigured": "true",
+    "eclipse.projects.detected": "",
+    "file.gist.reindex.count": "6",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "gotit.previous.run": "IC-222.3739.54",
+    "ide.memory.adjusted": "true",
+    "input.method.disabler.muted": "true",
+    "installed.kotlin.plugin.version": "222-1.7.10-release-334-IJ3739.54",
+    "last_opened_file_path": "/home/jonas_jones/GitHub/McWebserver",
+    "previousColorScheme": "_@user_Darcula",
+    "registry.to.advanced.settings.migration.build": "IC-222.3739.54",
+    "tasks.pass.word.conversion.enforced": "true"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/jonas_jones/GitHub/J-onasJones",
+      "/home/jonas_jones/GitHub/McWebserver",
+      "/home/jonas_jones/GitHub/McWebserver-forge",
+      "/home/jonas_jones/Downloads/McWebserver"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.android.tools.idea.sqlite.fileType.SqliteFileTypeDetector",
+      "com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>

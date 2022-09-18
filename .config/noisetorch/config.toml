@@ -1,0 +1,7 @@
+Threshold = 95
+DisplayMonitorSources = false
+EnableUpdates = true
+FilterInput = true
+FilterOutput = true
+LastUsedInput = "alsa_input.usb-R__DE_Microphones_R__DE_NT-USB_Mini_23BF2CB9-00.mono-fallback"
+LastUsedOutput = "alsa_output.usb-Logitech_PRO_X_Wireless_Gaming_Headset-00.iec958-stereo"

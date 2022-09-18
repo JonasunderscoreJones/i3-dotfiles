@@ -1,2 +1,2 @@
 # i3-dotfiles
-My i3 config files
+The config files for my system with i3
